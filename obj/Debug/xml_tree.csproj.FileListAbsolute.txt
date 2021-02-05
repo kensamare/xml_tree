@@ -1,0 +1,10 @@
+F:\Elcome\xml\xml_tree\obj\Debug\xml_tree.csprojAssemblyReference.cache
+F:\Elcome\xml\xml_tree\obj\Debug\xml_tree.MainForm.resources
+F:\Elcome\xml\xml_tree\obj\Debug\xml_tree.Properties.Resources.resources
+F:\Elcome\xml\xml_tree\obj\Debug\xml_tree.csproj.GenerateResource.cache
+F:\Elcome\xml\xml_tree\obj\Debug\xml_tree.csproj.CoreCompileInputs.cache
+F:\Elcome\xml\xml_tree\bin\Debug\xml_tree.exe.config
+F:\Elcome\xml\xml_tree\bin\Debug\xml_tree.exe
+F:\Elcome\xml\xml_tree\bin\Debug\xml_tree.pdb
+F:\Elcome\xml\xml_tree\obj\Debug\xml_tree.exe
+F:\Elcome\xml\xml_tree\obj\Debug\xml_tree.pdb
